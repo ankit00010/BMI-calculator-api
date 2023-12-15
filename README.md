@@ -33,7 +33,7 @@ $ npm run dev
 
 ## Usage
 The API is accessible at http://localhost:3000 by default.
-Use API testing tools like Postman or CURL to interact with the endpoints.
+Use API testing tools like Postman  to interact with the endpoints.
 
 
 
