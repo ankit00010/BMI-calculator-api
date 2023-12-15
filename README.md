@@ -131,7 +131,7 @@ Use API testing tools like Postman or CURL to interact with the endpoints.
 
 
 
-**#Author: Ankit Mishra**
+#Author: Ankit Mishra
 
 
 
