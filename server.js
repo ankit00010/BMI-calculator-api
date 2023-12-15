@@ -1,7 +1,8 @@
 const express = require("express");
 const connectionDB = require("./config/dbConnection");
 const bmiRoutes = require("./routes/bmiRoutes");
-const dotenv = require("dotenv").config();
+const dotenv = require("dotenv");
+dotenv.config();
 const app = express();
 connectionDB();    //Database connection
 
